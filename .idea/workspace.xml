@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f12dc61-250b-429a-95a0-00cc86751ea4" name="Changes" comment="oui">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jenkinsfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Book/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Book/TestBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="0f12dc61-250b-429a-95a0-00cc86751ea4" name="Changes" comment="book et test">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bank/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bank/Bank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679996506001</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="book et test">
+      <created>1680008567872</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680008567872</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="oui" />
-    <option name="LAST_COMMIT_MESSAGE" value="oui" />
+    <MESSAGE value="book et test" />
+    <option name="LAST_COMMIT_MESSAGE" value="book et test" />
   </component>
 </project>
